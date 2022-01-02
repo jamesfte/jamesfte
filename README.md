@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 📫 Reach me through Discord! **jamesfte#5712**
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact:I am going to date with someone when I back to Malaysia.We made a promise.
+- 💪 Have fun in coding career guys
