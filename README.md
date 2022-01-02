@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey Guys 👋
 
 <!--
 **jamesfte/jamesfte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently waiting for National Service in Singapore.
+- 🌱 I'm currently learning how to communicate,game streaming,java,python and more about web developing.
+- 👯 I'm looking to learn more cool stuff such as games,webs and apps developement.
+- 🤔 I'm looking for help with communicating skill which help me easier to know what others are looking for.
+- 💬 hmmmm, I don't think I can answer everything u guys wanna ask but anyways u can try to ask me somehow.
+- 📫 Reach me through Discord! **jamesfte#5712**
+- 😄 Pronouns:He/Him
+- ⚡ Fun fact:I am going to date with someone when I back to Malaysia.We made a promise.
