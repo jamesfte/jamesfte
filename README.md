@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact:I am going to date with someone when I back to Malaysia.We made a promise.
 - 💪 Have fun in coding career guys
+
+
+![alt text](https://github.com/jamesfte/jamesfte/blob/main/pathfinder.jpg?raw=true)
