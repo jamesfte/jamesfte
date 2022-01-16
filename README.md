@@ -1,6 +1,6 @@
 ### Hey Guys 👋
 
-<!--
+<!--basic intro:
 **jamesfte/jamesfte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -26,4 +26,13 @@ Here are some ideas to get you started:
 - 💪 Have fun in coding career guys
 
 
-![alt text](https://github.com/jamesfte/jamesfte/blob/main/pathfinder.jpg?raw=true)
+[![](https://github.com/jamesfte/jamesfte/blob/main/pathfinder.jpg?raw=true)](#)
+
+<!--
+
+<a href="https://www.facebook.com/jamesfte.02/"><img src="https://i.pinimg.com/originals/ca/3b/f0/ca3bf05cfab74677e5b73b130bd30991.png" width="145px" height="145px" padding-top="25px" /></a>
+<a href="https://discordapp.com/users/554998098837897229"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968759.png" /></a>
+
+[Discord](https://discordapp.com/users/554998098837897229/)
+[Facebook](https://www.facebook.com/jamesfte.02/)
+-->
