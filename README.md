@@ -19,7 +19,7 @@
   <a href="https://discordapp.com/users/554998098837897229">&ensp;
     <img src="https://github.com/jamesfte/jamesfte/blob/main/src/icon/discord.png" />
   </a>
-  <a href="https://www.instagram.com/jamesfte1408/">&ensp;
+  <a href="https://www.instagram.com/jamesfte_here/">&ensp;
     <img src="https://github.com/jamesfte/jamesfte/blob/main/src/icon/insta.png" />
   </a>
 </div>
