@@ -7,7 +7,7 @@
 
 <div>
   <h1>About me</h1>
-  <p>&ensp;&ensp;&ensp;&ensp;Hey there,my name is jamesfte.I'm a Malaysian but also a Singapore Permanent Resident.I'm currently staying in Singapore for National Service.I have learned html,css and a bit Java and Python Language.Currently learning about making a GUI for a Java Application using swing/AWT.Progress now:learning how to switch between JFrame so I can make a better login and register system.There is pretty much things that i like to do .etc:gaming,singing.I'm trying to learn some new stuff like backend stuff,ethical hacking,game streaming(might consider to sing in my stream too).I might try to do animation too.My goal?Become a games,webs or apps developer.Anyways I hope yall having fun in your coding career.</p>
+  <p>&ensp;&ensp;&ensp;&ensp;Hey there,my name is jamesfte.I'm a Malaysian but also a Singapore Permanent Resident.I'm currently staying in Singapore for National Service.I have learned html,css and a bit Java and Python Language.There is pretty much things that i like to do .etc:gaming,singing.I'm trying to learn some new stuff like ethical hacking,game streaming(might consider to sing in my stream too).I might try to do animation too.My goal?Become a games,webs or apps developer.Anyways I hope yall having fun in your coding career.</p>
 </div>
 
 <div>
@@ -24,7 +24,4 @@
   </a>
 </div>
 
-<-- ```
-Fun fact:I am going to date with someone when I back to Malaysia.We made a promise.
-``` -->
 
