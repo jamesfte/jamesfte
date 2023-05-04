@@ -14,5 +14,5 @@
   <h1>TryHackMe:</h1>
   <img src="https://tryhackme-badges.s3.amazonaws.com/jamesfte.png" alt="TryHackMe">
   <br>
-  <a href="https://tryhackme.com/p/jamesftey">TryHackMe Public Profile</a>
+  <a href="https://tryhackme.com/p/jamesfte">TryHackMe Public Profile</a>
 </div>
