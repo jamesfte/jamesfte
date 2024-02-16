@@ -12,6 +12,7 @@
 
 <div>
   <h1>TryHackMe:</h1>
+    <script src="https://tryhackme.com/badge/1468898"></script>
     <img src="https://tryhackme-badges.s3.amazonaws.com/jamesfte.png" alt="TryHackMe">
   <br>
   <a href="https://tryhackme.com/p/jamesfte">TryHackMe Public Profile</a>
