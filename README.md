@@ -7,12 +7,12 @@
 
 <div>
   <h1>About me</h1>
-  <p>&ensp;&ensp;&ensp;&ensp;Hey there,my name is jamesfte. Currently busy in Singapore.</p>
+  <p>&ensp;&ensp;&ensp;&ensp;Hey there,my name is jamesfte. A foundation student in Malaysia.</p>
 </div>
 
 <div>
   <h1>TryHackMe:</h1>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/jamesfte.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/jamesfte.png" alt="Your Image Badge" />
   <br>
   <a href="https://tryhackme.com/p/jamesfte">TryHackMe Public Profile</a>
 </div>
