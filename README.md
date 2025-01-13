@@ -12,9 +12,7 @@
 
 <div>
   <h1>TryHackMe:</h1>
-   <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1468898" style="border:none;" width="300" height="100"></iframe>
-
-
+   <img src="https://tryhackme-badges.s3.amazonaws.com/jamesfte.png" alt="Your Image Badge" />
   <br>
   <a href="https://tryhackme.com/p/jamesfte">TryHackMe Public Profile</a>
 </div>
