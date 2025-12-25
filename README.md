@@ -7,7 +7,7 @@
 
 <div>
   <h1>About me</h1>
-  <p>&ensp;&ensp;&ensp;&ensp;Hey there,my name is jamesfte. A foundation student in Malaysia.</p>
+  <p>&ensp;&ensp;&ensp;&ensp;Hey there,my name is jamesfte. A full time degree student in Malaysia.</p>
 </div>
 
 <div>
